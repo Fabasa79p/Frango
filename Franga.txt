@@ -1,3 +1,7 @@
 Fábio
 Frango é top
+<<<<<<< HEAD
 Apagador
+=======
+Borracha
+>>>>>>> d6495d316215d09ba12bb66cfe6770633749c012
